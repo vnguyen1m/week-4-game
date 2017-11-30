@@ -1,0 +1,112 @@
+body {
+	background-image: url("https://images.template.net/wp-content/uploads/2015/09/30062616/Cool-Background-Wallpapers1.jpg");
+}
+
+header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: 80px;
+	background-color: pink;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: yellow;
+
+}
+
+.name {
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+}
+
+p {
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+}
+
+
+.random {
+	display: inline-block;
+	width: 300px;
+	height: 100px;
+}
+
+.number {
+	background-color: pink;
+	text-align: center;
+	font-size: 70px;
+	margin-right: 10px;
+	width: 120px;
+	height:	80px;
+	color: red;
+	margin-top: 10px;
+
+}
+
+.power > * {
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 1200px;
+	height:	550px;
+}
+
+.outcome {
+	background-color: pink;
+	margin-left: 130px;
+	margin-top: -75px;
+	width: 900px;
+	height: 70px;
+	color: white;
+	text-align: center;
+}
+
+.click {
+	height: 120px;
+	width: 120px;
+
+}
+
+.score {
+	background-color: pink;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	width: 1200px;
+	height: 45px;
+	text-align: center;
+}
+
+h3 {
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+}
+
+.math {
+	background-color: pink;
+	font-size: 45;
+	color: white;
+	width: 1200px;
+	height: 75;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
